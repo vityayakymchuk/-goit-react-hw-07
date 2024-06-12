@@ -78,6 +78,7 @@ body {
   background-image: url("https://cdn.create.vista.com/api/media/medium/364478548/stock-photo-yellow-handset-blue-background-copy-space?token=");
   background-size: cover;
   background-position: center;
+  background-attachment: fixed;
   background-repeat: no-repeat;
   background-color: #76d7ef;
 }
